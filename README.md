@@ -7,7 +7,7 @@ A care management organisation called WeCare wants to identify among its diabeti
 - Exploratory Data Analysis
 - Preparing for model
 - Logistic Regression
--- Feature Scaling
+: Feature Scaling
 -- Looking at Correlations
 -- Model Building
 -- Feature Selection Using RFE
@@ -19,7 +19,7 @@ A care management organisation called WeCare wants to identify among its diabeti
 -- Precision and Recall
 -- Prediction on test dataset
 - Random Forest
--- Hyperparameter Tuning
+: Hyperparameter Tuning
 -- Tuning max_depth
 -- Tuning n_estimators
 -- Tuning max_features
@@ -29,9 +29,7 @@ A care management organisation called WeCare wants to identify among its diabeti
 -- Fitting the final model with the best parameters
 - List of patients with their risk stratifications
 ## Details of files given
-- Clustering and PCA Assignment Meenu.ipynb : The python file showing coding and data analysis
-- Clustering and pca assignment 1.pdf : Presentation showing conclusion
-- Clustering and pca assignment 2.pdf: Few Questions and answers with solutions
-- Country-data.csv : Data worked on
-- data-dictionary.csv : Data Dictionary
-
+- Assignment+-+Risk+Stratification (1).ipynb : The python file showing coding and data analysis
+- diabetic_data.csv : Data worked on
+- diabetic_data_dictionary.csv : Data Dictionary
+- prediction.csv : Final prediction
